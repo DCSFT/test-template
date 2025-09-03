@@ -1,1 +1,1 @@
-# test-template
+# Not a project
